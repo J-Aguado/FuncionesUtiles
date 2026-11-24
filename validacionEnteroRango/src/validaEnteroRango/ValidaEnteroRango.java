@@ -1,8 +1,8 @@
-package validacionEnteroRango;
+package validaEnteroRango;
 
 import java.util.Scanner;
 
-public class ValidacionEnteroRango {
+public class ValidaEnteroRango {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);
 		validaEnteroRango(0, 2, sc);
