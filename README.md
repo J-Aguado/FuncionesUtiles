@@ -4,3 +4,4 @@ Conjunto de funciones útiles para programar en Java.
 
 * Maximo valor de una array
 * Muestra de arrays
+* [Número aleatorio](./numRandom/src/numRandom)
