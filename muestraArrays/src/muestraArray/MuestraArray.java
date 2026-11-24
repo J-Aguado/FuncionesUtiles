@@ -1,6 +1,6 @@
-package muestraArrays;
+package muestraArray;
 
-public class MuestraArrays {
+public class MuestraArray {
 	public static void main(String[] args) {
 		
 		
